@@ -1,8 +1,60 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Syncopate:wght@700&family=Tourney:ital,wght@1,300&display=swap');
 
-.logo {
+#logo {
     font-family: 'Syncopate', sans-serif;
     font-size: 300%;
-    margin: 30px;
-    float: left; 
+    margin: 15px;
+    float: left;
+    color: orangered;
+    letter-spacing: 1px;
+}
+
+body {
+    background-color: black;
+}
+
+#nav-link, #logo {
+    line-height: 66px;
+}
+
+#nav-link {
+    font-size: 115%;
+    list-style-type: none;
+    margin-right: 15px;
+    background-color: black;
+
+}
+
+#nav-link li {
+    float: right;
+    margin-right: 15px;
+}
+
+#nav-link a:hover {
+    color: orangered;
+}
+
+#nav-link a {
+    text-decoration: none;
+    color: lightslategray;
+}
+
+.social-links {
+    list-style-type: none;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: orangered;
+    text-align: center;
+
+}
+
+.social-links a {
+    text-decoration: none;
+    color: orangered;
 }
