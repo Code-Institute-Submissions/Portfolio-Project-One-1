@@ -13,7 +13,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-#nav-link, #logo {
+#nav-link,
+#logo {
     line-height: 66px;
 }
 
@@ -37,18 +38,23 @@ body {
     color: #ea5315;
 }
 
-.hero {
-    text-align: center;
-    max-height: 30%;
-    max-width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    margin-top: 200px;
+#hero {
+    height: 400px;
+    width: 100%;
+    background: url('../images/Professional\ Home\ Gym.jpeg') no-repeat center center;
 }
 
+#hero-outer {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#introduction-border {
+    border: hidden;
+} 
+
 #introduction {
-    text-align: center;
     color: whitesmoke;
 }
 
@@ -57,9 +63,7 @@ body {
 }
 
 footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
+    position: sticky;
     width: 100%;
     height: 100px;
     background-color: #1e2228;
@@ -78,10 +82,7 @@ footer {
 }
 
 .social-links i {
-    
+
     font-size: 270%;
     color: lightslategray;
-    padding: 1%;
-    margin-right: 9%;
-    margin-left: 9%;
 }
