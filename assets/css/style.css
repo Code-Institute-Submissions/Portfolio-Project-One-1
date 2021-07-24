@@ -63,6 +63,28 @@ body {
     margin: 25px;
 }
 
+#example-work {
+    margin-bottom: 25%;
+    
+}
+
+#square-border {
+    height: 150px;
+    width: 150px;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    clear: both;
+    margin: 25%;
+    margin-top: 600px;
+    
+}
+
+#square-img {
+    background: url('../images/damir-spanic-SBf_Ab2_A0c-unsplash.jpg') no-repeat center center;
+    height: 100%;
+}
+
 .social-links {
     list-style-type: none;
 }
