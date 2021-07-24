@@ -13,7 +13,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-#nav-link, #logo {
+#nav-link,
+#logo {
     line-height: 90px;
 }
 
@@ -51,9 +52,7 @@ body {
     margin-top: 25px;
 }
 
-#introduction-border {
-    border: hidden;
-} 
+
 
 #introduction {
     color: whitesmoke;
@@ -63,26 +62,54 @@ body {
     margin: 25px;
 }
 
-#example-work {
-    margin-bottom: 25%;
-    
-}
-
-#square-border {
-    height: 150px;
-    width: 150px;
-    border-style: solid;
-    border-color: white;
-    border-width: 3px;
+#square-border-one {
+    height: 300px;
+    width: 300px;
+    border-style: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     clear: both;
-    margin: 25%;
-    margin-top: 600px;
-    
+    padding-top: 2%;
+    padding-bottom: 1%;
 }
 
-#square-img {
+#square-img-one {
     background: url('../images/damir-spanic-SBf_Ab2_A0c-unsplash.jpg') no-repeat center center;
     height: 100%;
+}
+
+#text-feild-one {
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    border: 3px solid white;
+    font-size: large;
+}
+
+#square-border-two {
+    height: 300px;
+    width: 300px;
+    border-style: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+#square-img-two {
+    background: url('../images/brett-jordan-U2q73PfHFpM-unsplash.jpg') no-repeat center center;
+    height: 100%;
+}
+
+#text-feild-two {
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    border: 3px solid white;
+    font-size: large;
 }
 
 .social-links {
