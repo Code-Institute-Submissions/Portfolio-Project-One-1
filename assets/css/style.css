@@ -40,6 +40,7 @@ body {
 #hero {
     height: 400px;
     width: 100%;
+    position: relative;
     background: url('../images/Professional\ Home\ Gym.jpeg') no-repeat center center;
 }
 
