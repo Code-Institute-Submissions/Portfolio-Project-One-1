@@ -2,7 +2,7 @@
 
 #logo {
     font-family: 'Syncopate', sans-serif;
-    font-size: 450%;
+    font-size: 400%;
     margin: 9px;
     float: left;
     color: #ea5315;
@@ -53,22 +53,52 @@ body {
 }
 
 #welcome {
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-family: 'Syncopate', sans-serif;
     text-decoration: underline;
+    text-align: center;
+    font-size: 300%;
+    color: whitesmoke;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    padding: 3%;
+}
+
+#mission {
+    text-transform: capitalize;
+    text-decoration: underline;
+    padding: 15px;
 }
 
 #introduction {
-    color: #ea5315;
+    color: #373f4a;
     font-size: x-large;
     text-align: center;
-    border: 3px solid #ea5315;
+    border: 3px solid black;
     margin: auto;
     max-width: 75%;
-    background-color: black;
+    background-color: #d0d0d0;
     padding: 15px;
     margin-top: 30px;
+    font-weight: bold;
 
+}
+
+#product h2 {
+    text-decoration: underline;
+}
+
+#product {
+    margin-top: 30px;
+    float: left;
+    padding: 15px;
+    clear: left;
+    font-size: large;
+    text-transform: capitalize;
+    color: #373f4a;
+    border: 3px solid black;
+    background-color: #d0d0d0;
+    width: 75%;
 }
 
 .customer {
@@ -92,15 +122,15 @@ body {
     height: 100%;
 }
 
-.text-field{
+.text-field {
     margin: auto;
-    color: #ea5315;
+    color: #373f4a;
     text-align: center;
-    border: 3px solid #ea5315;
+    border: 3px solid black;
     font-size: x-large;
     font-weight: bolder;
     max-width: 60%;
-    background-color: black;
+    background-color: #d0d0d0;
     padding: 15px;
 }
 
@@ -120,17 +150,6 @@ body {
     height: 100%;
 }
 
-.text-field {
-    margin: auto;
-    color: #ea5315;
-    text-align: center;
-    border: 3px solid #ea5315;
-    font-size: x-large;
-    font-weight: bolder;
-    max-width: 60%;
-    background-color: black;
-    padding: 15px;
-}
 
 #square-border-three {
     height: 333px;
@@ -148,34 +167,21 @@ body {
     height: 100%;
 }
 
-.text-field {
-    margin: auto;
-    color: #ea5315;
-    text-align: center;
-    border: 3px solid #ea5315;
-    font-size: x-large;
-    font-weight: bolder;
-    max-width: 60%;
-    background-color: black;
-    padding: 15px;
-}
-
 .price {
     font-weight: bold;
     font-size: xx-large;
 }
 
 #form {
-    clear:both;
+    clear: both;
     margin-left: 10%;
     color: whitesmoke;
     padding-top: 9px;
     box-sizing: border-box;
     font-size: large;
-
 }
 
-input[type=text]{
+input[type=text] {
     width: 15%;
     padding: 3px;
     margin: 3px 0;
@@ -186,7 +192,8 @@ input[type=text]{
     color: #ea5315;
 }
 
-#form, #submit {
+#form,
+#submit {
     margin-top: 3%;
     padding: 9px;
     color: #ea5315;
@@ -215,9 +222,7 @@ input[type=text]{
     clear: both;
     margin-left: auto;
     margin-right: auto;
-    
     float: right;
-    
 }
 
 #contact-img {
