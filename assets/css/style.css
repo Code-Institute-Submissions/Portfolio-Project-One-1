@@ -178,6 +178,24 @@ body {
     font-size: xx-large;
 }
 
+#contact-us h2 {
+    text-decoration: underline;
+}
+
+#contact-us {
+    margin-top: 30px;
+    margin-left: 10%;
+    float: left;
+    padding: 9px;
+    clear: left;
+    font-size: large;
+    text-transform: capitalize;
+    color: #373f4a;
+    border: 3px solid black;
+    background-color: #d0d0d0;
+    width: 75%;
+}
+
 #form {
     clear: both;
     margin-left: 10%;
@@ -280,5 +298,14 @@ footer {
         margin: auto;
         width: auto;
         padding-right: 6%;
+    }
+
+    #form input {
+        margin: auto;
+        width: 50%;
+    }
+
+    textarea {
+        width: 90%;
     }
 }
