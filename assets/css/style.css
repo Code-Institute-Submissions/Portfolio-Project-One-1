@@ -285,6 +285,15 @@ footer {
         margin: 3px;
     }
 
+    #form input {
+        margin: auto;
+        width: 25%;
+    }
+
+    textarea {
+        width: 50%;
+    }
+
 
 }
 
