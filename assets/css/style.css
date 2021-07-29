@@ -274,10 +274,17 @@ footer {
 
 @media screen and (max-width: 1050px) {
     #logo {
-        font-size: 200%;
+        font-size: 300%;
         width: auto;
         margin: auto;
     }
+
+    #nav-link li {
+        font-size: 75%;
+        font-weight: bolder;
+        margin: 3px;
+    }
+
 
 }
 
