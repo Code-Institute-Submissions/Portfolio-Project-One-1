@@ -52,6 +52,12 @@ body {
     margin-top: 25px;
 }
 
+#underline {
+    clear: both;
+    width: 100%;
+    border: black solid 1px;
+}
+
 #welcome {
     text-transform: uppercase;
     font-family: 'Syncopate', sans-serif;
@@ -91,7 +97,7 @@ body {
 #product {
     margin-top: 30px;
     float: left;
-    padding: 15px;
+    padding: 1px;
     clear: left;
     font-size: large;
     text-transform: capitalize;
@@ -215,22 +221,6 @@ input[type=text] {
     font-size: 16px;
 }
 
-#contact-border {
-    height: 568px;
-    width: 400px;
-    border-style: hidden;
-    clear: both;
-    margin-left: auto;
-    margin-right: auto;
-    float: right;
-}
-
-#contact-img {
-    background: url('../images/javier-santos-guzman-9MR78HGoflw-unsplash\ copy.jpg') no-repeat center center;
-    height: 100%;
-}
-
-
 .social-links {
     list-style-type: none;
 }
@@ -261,4 +251,32 @@ footer {
 
 .social-links li i:hover {
     color: #ea5315;
+}
+
+@media screen and (max-width: 750px) {
+   #hero {
+       background: url(..//images/javier-santos-guzman-9MR78HGoflw-unsplash\ copy.jpg) no-repeat center center;
+    }
+
+    .social-links {
+        margin: auto;
+        width: auto;
+    }
+
+    #square-border-one {
+        width: auto;
+    }
+
+    #square-border-two {
+        width: auto;
+    }
+
+    #square-border-three {
+        width: auto;
+    }
+
+    #nav-links {
+        width: auto;
+        margin: auto;
+    }
 }
