@@ -272,6 +272,15 @@ footer {
     color: #ea5315;
 }
 
+@media screen and (max-width: 1050px) {
+    #logo {
+        font-size: 200%;
+        width: auto;
+        margin: auto;
+    }
+
+}
+
 @media screen and (max-width: 750px) {
 
     #logo {
