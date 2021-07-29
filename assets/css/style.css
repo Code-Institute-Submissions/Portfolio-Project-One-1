@@ -135,6 +135,7 @@ body {
     text-align: center;
     border: 3px solid black;
     font-size: large;
+    max-width: 50%;
 }
 
 #form {
