@@ -2,7 +2,7 @@
 
 #logo {
     font-family: 'Syncopate', sans-serif;
-    font-size: 300%;
+    font-size: 450%;
     margin: 9px;
     float: left;
     color: #ea5315;
@@ -19,7 +19,7 @@ body {
 }
 
 #nav-link {
-    font-size: 115%;
+    font-size: 150%;
     list-style-type: none;
     letter-spacing: 3px;
 }
@@ -52,23 +52,36 @@ body {
     margin-top: 25px;
 }
 
-
+#welcome {
+    text-transform: capitalize;
+    font-family: 'Syncopate', sans-serif;
+    text-decoration: underline;
+}
 
 #introduction {
-    color: whitesmoke;
-    font-size: 150%;
+    color: #ea5315;
+    font-size: x-large;
     text-align: center;
-    border: 3px solid black;
-    margin: 25px;
+    border: 3px solid #ea5315;
+    margin: auto;
+    max-width: 75%;
+    background-color: black;
+    padding: 15px;
+    margin-top: 30px;
+
+}
+
+.customer {
+    text-transform: capitalize;
+    text-decoration: underline;
 }
 
 #square-border-one {
     height: 433px;
     width: 650px;
-    border-style: hidden;
+    border: hidden;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     clear: both;
     padding-top: 5%;
     padding-bottom: 1%;
@@ -79,12 +92,16 @@ body {
     height: 100%;
 }
 
-#text-feild-one {
-    float: right;
-    color: whitesmoke;
+.text-field{
+    margin: auto;
+    color: #ea5315;
     text-align: center;
-    border: 3px solid black;
-    font-size: large;
+    border: 3px solid #ea5315;
+    font-size: x-large;
+    font-weight: bolder;
+    max-width: 60%;
+    background-color: black;
+    padding: 15px;
 }
 
 #square-border-two {
@@ -92,8 +109,7 @@ body {
     width: 520px;
     border-style: hidden;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     clear: both;
     padding-top: 2%;
     padding-bottom: 1%;
@@ -104,12 +120,16 @@ body {
     height: 100%;
 }
 
-#text-feild-two {
-    float: right;
-    color: whitesmoke;
+.text-field {
+    margin: auto;
+    color: #ea5315;
     text-align: center;
-    border: 3px solid black;
-    font-size: large;
+    border: 3px solid #ea5315;
+    font-size: x-large;
+    font-weight: bolder;
+    max-width: 60%;
+    background-color: black;
+    padding: 15px;
 }
 
 #square-border-three {
@@ -117,8 +137,7 @@ body {
     width: 500px;
     border-style: hidden;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     clear: both;
     padding-top: 2%;
     padding-bottom: 1%;
@@ -129,13 +148,21 @@ body {
     height: 100%;
 }
 
-#text-feild-three {
-    float: right;
-    color: whitesmoke;
+.text-field {
+    margin: auto;
+    color: #ea5315;
     text-align: center;
-    border: 3px solid black;
-    font-size: large;
-    max-width: 50%;
+    border: 3px solid #ea5315;
+    font-size: x-large;
+    font-weight: bolder;
+    max-width: 60%;
+    background-color: black;
+    padding: 15px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: xx-large;
 }
 
 #form {
@@ -222,7 +249,7 @@ footer {
 
 .social-links i {
     font-size: 270%;
-    color: lightslategray;
+    color: black;
     padding: 5%;
     margin: 1%;
 }
