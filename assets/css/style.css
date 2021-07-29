@@ -254,13 +254,14 @@ footer {
 }
 
 @media screen and (max-width: 750px) {
-   #hero {
-       background: url(..//images/javier-santos-guzman-9MR78HGoflw-unsplash\ copy.jpg) no-repeat center center;
+    #hero {
+        background: url(..//images/javier-santos-guzman-9MR78HGoflw-unsplash\ copy.jpg) no-repeat center center;
     }
 
     .social-links {
-        margin: auto;
+        padding-right: 10%;
         width: auto;
+        margin: auto;
     }
 
     #square-border-one {
@@ -275,8 +276,9 @@ footer {
         width: auto;
     }
 
-    #nav-links {
-        width: auto;
+    nav {
         margin: auto;
+        width: auto;
+        padding-right: 6%;
     }
 }
