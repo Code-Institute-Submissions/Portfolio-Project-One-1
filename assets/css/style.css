@@ -275,7 +275,7 @@ footer {
 @media screen and (max-width: 750px) {
 
     #logo {
-        font-size: 125%;
+        font-size: 150%;
         width: auto;
         margin: auto;
     }
@@ -314,7 +314,8 @@ footer {
         margin: 3px;
     }
 
-    #nav-link li, #logo {
+    #nav-link li,
+    #logo {
         line-height: 30px;
     }
 
