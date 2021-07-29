@@ -95,16 +95,17 @@ body {
 }
 
 #product {
-    margin-top: 30px;
-    float: left;
+    margin-top: 70px;
+    margin-left: 12%;
     padding: 1px;
-    clear: left;
+    clear: both;
     font-size: large;
     text-transform: capitalize;
     color: #373f4a;
     border: 3px solid black;
     background-color: #d0d0d0;
     width: 75%;
+
 }
 
 .customer {
@@ -272,8 +273,20 @@ footer {
 }
 
 @media screen and (max-width: 750px) {
+
+    #logo {
+        font-size: 300%;
+        margin: 9px;
+    }
+
     #hero {
         background: url(..//images/javier-santos-guzman-9MR78HGoflw-unsplash\ copy.jpg) no-repeat center center;
+        width: auto;
+        margin: auto;
+    }
+
+    #welcome {
+        font-size: 200%;
     }
 
     .social-links {
@@ -294,11 +307,13 @@ footer {
         width: auto;
     }
 
-    nav {
-        margin: auto;
-        width: auto;
-        padding-right: 6%;
+    #nav-link li {
+        font-size: 70%;
+        margin-right: 15px;
+        float: left;
     }
+
+
 
     #form input {
         margin: auto;
