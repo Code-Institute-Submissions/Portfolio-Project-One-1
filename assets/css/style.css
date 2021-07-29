@@ -275,8 +275,9 @@ footer {
 @media screen and (max-width: 750px) {
 
     #logo {
-        font-size: 300%;
-        margin: 9px;
+        font-size: 100%;
+        width: auto;
+        margin: auto;
     }
 
     #hero {
@@ -308,12 +309,14 @@ footer {
     }
 
     #nav-link li {
-        font-size: 70%;
-        margin-right: 15px;
-        float: left;
+        font-size: 10%;
+        font-weight: bolder;
+        margin: 3px;
     }
 
-
+    #nav-link li, #logo {
+        line-height: 30px;
+    }
 
     #form input {
         margin: auto;
