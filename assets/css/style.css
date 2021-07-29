@@ -283,6 +283,7 @@ footer {
         font-size: 75%;
         font-weight: bolder;
         margin: 3px;
+        padding-right: 9px;
     }
 
     #form input {
@@ -309,6 +310,7 @@ footer {
         background: url(..//images/javier-santos-guzman-9MR78HGoflw-unsplash\ copy.jpg) no-repeat center center;
         width: auto;
         margin: auto;
+        padding-top: 50px;
     }
 
     #welcome {
@@ -336,7 +338,9 @@ footer {
     #nav-link li {
         font-size: 10%;
         font-weight: bolder;
-        margin: 3px;
+        float: right;
+        margin: auto;
+        padding: 3px;
     }
 
     #nav-link li,
