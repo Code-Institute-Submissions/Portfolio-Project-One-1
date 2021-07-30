@@ -51,28 +51,36 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 ### Consistent Logo Nav Bar and Footer
 
- * Across all three pages the Header, Logo, Nav Bar and Footer stay consistent throughout i wanted to do this to provide visual aesthetic and solid structure to the website.
- * The Logo has a link to connect you back to the Home page on all pages. and the Social Links at the Footer are fully functional and serve purpose to the site.
+* Across all three pages the Header, Logo, Nav Bar and Footer stay consistent throughout i wanted to do this to provide visual aesthetic and solid structure to the website.
+* The Logo has a link to connect you back to the Home page on all pages. and the Social Links at the Footer are fully functional and serve purpose to the site.
  
  ![Nav-Bar](/assets/images/READMEimages/nav-bar.png)
  ![Footer](assets/images/READMEimages/footer.png)
 
  ### Hero Images
 
-  * Hero image changes when max screen width goes below 750px i added this feature to better display the image and draw the attention of the veiwer to make sure the websites intent was understood.
+* Hero image changes when max screen width goes below 750px i added this feature to better display the image and draw the attention of the veiwer to make sure the websites intent was understood.
 
   ![Hero-Image-Desktop](/assets/images/READMEimages/hero-image-desktop.png)
   ![Hero-Image-Mobile](/assets/images/READMEimages/hero-image-mobile.png)  
 
   ### About
 
-   * I used this page to display Images of Projects already created by gymfyt for their customer base. Along side this, text explaining what was included plus what was needed from the space available and also a final price of how much it cost to build the Project.
+* I used this page to display Images of Projects already created by gymfyt for their customer base. Along side this, text explaining what was included plus what was needed from the space available and also a final price of how much it cost to build the Project.
 
    ![Project-Image](/assets/images/READMEimages/project-page.png)
 
    ### Contact
 
-    * 
+* On this page i placed a simple text box instructing clients to get in touch by filling in the form with there personal details. Also a text area for any special requirements like specific activities they want or disabilties they had. I wanted to make it a face to face consultation so the customer really felt like gymfyt had there best interests at heart.
+
+![Contact-Image](/assets/images/READMEimages/contact-image.png)
+
+## Design
+
+### Goals
+
+### Expectations
 
 
 
