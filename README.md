@@ -64,10 +64,16 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
   ![Hero-Image-Desktop](/assets/images/READMEimages/hero-image-desktop.png)
   ![Hero-Image-Mobile](/assets/images/READMEimages/hero-image-mobile.png)  
 
-  ### About Page
+  ### About
 
    * I used this page to display Images of Projects already created by gymfyt for their customer base. Along side this, text explaining what was included plus what was needed from the space available and also a final price of how much it cost to build the Project.
 
-   
+   ![Project-Image](/assets/images/READMEimages/project-page.png)
+
+   ### Contact
+
+    * 
+
+
 
 
