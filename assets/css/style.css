@@ -325,8 +325,12 @@ footer {
         margin: auto;
     }
 
-    .text-field {
+    #projects {
         max-width: 100%;
+    }
+
+    .text-field {
+        max-width: 80%;
     }
 
     #square-border-one {
