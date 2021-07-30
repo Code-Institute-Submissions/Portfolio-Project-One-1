@@ -20,6 +20,7 @@ body {
 
 #nav-link {
     font-size: 150%;
+    text-transform: capitalize;
     list-style-type: none;
     letter-spacing: 3px;
 }
@@ -90,16 +91,18 @@ body {
 
 }
 
-#product h2 {
+#design h2 {
     text-decoration: underline;
+    text-align: center;
 }
 
-#product {
+#design {
     margin-top: 70px;
     margin-left: 12%;
-    padding: 1px;
+    padding: 3px;
     clear: both;
-    font-size: large;
+    font-weight: bold;
+    font-size: x-large;
     text-transform: capitalize;
     color: #373f4a;
     border: 3px solid black;
