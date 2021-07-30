@@ -66,6 +66,8 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
   ### About Page
 
-   * I used this page to display Images of Projects already created by gymfyt for their customer base. Along side this, text explaining what was included plus what was needed from the space available and also a final price of hor much is cost to build the Project. 
+   * I used this page to display Images of Projects already created by gymfyt for their customer base. Along side this, text explaining what was included plus what was needed from the space available and also a final price of how much it cost to build the Project.
+
+   
 
 
