@@ -59,6 +59,13 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
  ### Hero Images
 
-  * Hero image changes when max screen width goes below 750px i added this feature to better display the image and draw the attention of the veiwer to make sure the websites intent was understood  
+  * Hero image changes when max screen width goes below 750px i added this feature to better display the image and draw the attention of the veiwer to make sure the websites intent was understood.
+
+  ![Hero-Image-Desktop](/assets/images/READMEimages/hero-image-desktop.png)
+  ![Hero-Image-Mobile](/assets/images/READMEimages/hero-image-mobile.png)  
+
+  ### About Page
+
+   * I used this page to display Images of Projects already created by gymfyt for their customer base. Along side this, text explaining what was included plus what was needed from the space available and also a final price of hor much is cost to build the Project. 
 
 
