@@ -4,11 +4,11 @@
 
 ### My-project-portfolio-one
 
-gymfit is an online based company dedicated to designing and installing the perfect workout space for their customers in whatever size space they have available.
+gymfit is an online-based company dedicated to designing and installing the perfect workout space for their customers in whatever size space they have available.
 
-The client has asked for an interactive/responsive website to be built to further grow their business and expand their clientel.
+The client has asked for an interactive/responsive website to be built to further grow their business and expand their clientele.
 
-Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to close. So gymfyt saw this as the perfect oppurtunity for a new start up business.
+Due to the Covid Pandemic, all Gym and outdoor exercise equipment sadly had to close. So gymfyt saw this as the perfect opportunity for a new start-up business.
 
 [live website](https://ronnietyler.github.io/Portfolio-Project-One/)
 
@@ -60,15 +60,15 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 ### Logo Nav Bar and Footer
 
-* Across all three pages the Header, Logo, Nav Bar and Footer stay consistent throughout i wanted to do this to provide visual aesthetic and solid structure to the website.
-* The Logo has a link to connect you back to the Home page on all pages. and the Social Links at the Footer are fully functional and serve purpose to the site.
+* Across all three pages the Header, Logo, Nav Bar and Footer stay consistent throughout. I wanted to do this to provide a visual aesthetic and solid structure to the website.
+* The Logo has a link to connect you back to the Home page on all pages. and the Social Links at the Footer are fully functional and serve a purpose to the site.
  
  ![Nav-Bar](/assets/images/READMEimages/nav-bar.png)
  ![Footer](assets/images/READMEimages/footer.png)
 
  ### Hero Images
 
-* Hero image changes when max screen width goes below 750px i added this feature to better display the image and draw the attention of the veiwer to make sure the websites intent was understood.
+* Hero image changes when max screen width goes below 750px. I added this feature to better display the image and draw the attention of the viewer to make sure the intent of the website was understood.
 
 #### Hero Image Desktop
 
@@ -80,35 +80,35 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
   ### About
 
-* I used this page to display Images of Projects already created by gymfyt for their customer base. Along side this, text explaining what was included plus what was needed from the space available and also a final price of how much it cost to build the Project.
+* I used this page to display Images of Projects already created by gymfyt for their customer base. Alongside this, text explaining what was included plus what was needed from the space available and also a final price of how much it cost to build the Project.
 
    ![Project-Image](/assets/images/READMEimages/project-page.png)
 
    ### Contact
 
-* On this page i placed a simple text box instructing clients to get in touch by filling in the form with there personal details. Also a text area for any special requirements like specific activities they want or disabilties they had. I wanted to make it a face to face consultation so the customer really felt like gymfyt had there best interests at heart.
+* On this page I placed a simple text box instructing clients to get in touch by filling in the form with their personal details. Also a text area for any special requirements like specific activities they want or disabilities they had. I wanted to make it a face-to-face consultation so the customer felt like gymfyt had their best interests at heart.
 
 ![Contact-Image](/assets/images/READMEimages/contact-image.png)
 
 ## Design
 
-* The initial design for the gymfyt website was to ensure it was completely responsive across all devices, which is why from the get go it was created to fit a mobile screen. I also wanted to make sure thay every peice of information on the site was necessary and relevant to the user, due to working with a smaller amount of space. 
+* The initial design for the gymfyt website was to ensure it was completely responsive across all devices, which is why from the get-go it was created to fit a mobile screen. I also wanted to make sure that every piece of information on the site was necessary and relevant to the user, due to working with a smaller amount of space. 
 
-* The color scheme used was a vibrant orange to show active, playful, energetic, happiness and confidence in the web page the dark grey was used as a contempary modern feel to show professionalism. I have used the sma ecolors throughout the webpage to keep things simple but elegant. Inside the text boxes an off-white light grey was used as to not be to harsh on the eyes and make for an easy enjoyable read.
+* The color scheme used was a vibrant orange to show activity, playfulness, energy, happiness, and confidence on the web page the dark grey was used as a contemporary modern feel to show professionalism. I have used the same colors throughout the webpage to keep things simple but elegant. Inside the text boxes, an off-white light grey was used as to not be too harsh on the eyes and make for an easy enjoyable read.
 
-* The font i used ROBOTO from google fonts is an easy to read uncomplicated font i kept the same font throughout as to not leave the user feeling confused or lost when navigating the site. The only other font used was SYNCOPATE for the logo a futuristic font ideal for the impression i wanted it to give. 
+* The font I used ROBOTO from google fonts is an easy to read uncomplicated font I kept the same font throughout as to not leave the user feeling confused or lost when navigating the site. The only other font used was SYNCOPATE for the logo a futuristic font ideal for the impression I wanted it to give. 
 
 ### Expectations
 
-* The client has asked that the bacis capabilties for the website are.
-* An eye catching home page with Hero image instantly depicitng what the site is about
+* The client has asked that the basic capabilities for the website are.
+* An eye-catching home page with Hero image instantly depicting what the site is about
 * An About/Projects page to show site users examples of previous works.
 * A collection of photos of each of the previous projects.
-* A simple and clear form specifically designed to allow gymfyt to contact users once details have been entered.
-* The ability to expand the site further in the future of individual excersise equipment available.
-* Also future expansion of allowing clients to design their space virtually to show what is acheivable.
+* A simple and clear form specifically designed to allow gym fit to contact users once details have been entered.
+* The ability to expand the site further in the future of individual exercise equipment available.
+* Also the future expansion of allowing clients to design their space virtually to show what is achievable.
 
-* The client wanted to express the look of a professional elegant committed site to achieve one final goal and that is to create safisticated engineered workout spaces suitbale for anyone and evryone.
+* The client wanted to express the look of a professional elegant committed site to achieve one final goal and that is to create sophisticated engineered workout spaces suitable for anyone and everyone.
 
 ## Testing
 
@@ -141,6 +141,8 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 * [W3C Markup](https://validator.w3.org/) was used to validate HTML code.
 * [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate CSS code.
 * [Color Wheel](https://www.canva.com/colors/color-wheel/) was used to pick all colors for site.
+* [Grammarly](https://app.grammarly.com/) to spell check readme file.
+
 
 ## Credits
 
@@ -148,13 +150,15 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 * W3 Schools helped with the code for the contact form.
 
-* [Unsplash](https://unsplash.com/) All photos were taken from unsplash Free Downloads.
+* [Unsplash](https://unsplash.com/) All photos were taken from Unsplash Free Downloads.
 
 * All photos cropped and changed pixel size done on MacBook MarkUp.
 
-* [Google Fonts](https://fonts.google.com/) All fonts taken form google fonts.
+* [Google Fonts](https://fonts.google.com/) All fonts have been taken from google fonts.
 
-* [Color Wheel](https://www.canva.com/colors/color-wheel/) All colors taken from canva color wheel.
+* [Color Wheel](https://www.canva.com/colors/color-wheel/) All colors taken from Canva color wheel.
+
+* [Grammarly](https://app.grammarly.com/) to spell check readme file.
 
 
 
