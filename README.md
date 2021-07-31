@@ -18,12 +18,15 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 1. [Wireframes](#wireframes)
     * [Mobile Version](#mobile-version)
-    * [Homepage](#homepage)
+    * [Homepage Wireframe](#homepage)
+    * [About Wireframe](#about)
+    * [Contact Wireframe](#contact)
+2. [Features](#features)
+    * [Logo Nav Bar and Footer](#logo-nav-bar-and-footer)
+    * [Hero Images](#hero-images)
     * [About](#about)
     * [Contact](#contact)
-2. [Features](#features) 
 3. [Design](#design)
-    * [Goals](#goals)
     * [Expectations](#expectations)
 4. [Testing](#testing)
 5. [Technology used](#technology-used)
@@ -35,21 +38,21 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 ![Mobile Version](/assets/images/READMEimages/mobile-screen-version.png)
 
-### Homepage
+### Homepage Wireframe
 
 ![Homepage](/assets/images/READMEimages/desktop-home-page.png)
 
-### About
+### About Wireframe
 
 ![About](/assets/images/READMEimages/desktop-about-page.png)
 
-### Contact
+### Contact Wireframe
 
 ![Contact](/assets/images/READMEimages/desktop-contact-page.png)
 
 ## Features 
 
-### Consistent Logo Nav Bar and Footer
+### Logo Nav Bar and Footer
 
 * Across all three pages the Header, Logo, Nav Bar and Footer stay consistent throughout i wanted to do this to provide visual aesthetic and solid structure to the website.
 * The Logo has a link to connect you back to the Home page on all pages. and the Social Links at the Footer are fully functional and serve purpose to the site.
@@ -78,9 +81,22 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 ## Design
 
-### Goals
+* The initial design for the gymfyt website was to ensure it was completely responsive across all devices, which is why from the get go it was created to fit a mobile screen. I also wanted to make sure thay every peice of information on the site was necessary and relevant to the user, due to working with a smaller amount of space. 
+
+* The color scheme used was a vibrant orange to show active, playful, energetic, happiness and confidence in the web page the dark grey was used as a contempary modern feel to show professionalism. I have used the sma ecolors throughout the webpage to keep things simple but elegant. Inside the text boxes an off-white light grey was used as to not be to harsh on the eyes and make for an easy enjoyable read.
+
+* The font i used ROBOTO from google fonts is an easy to read uncomplicated font i kept the same font throughout as to not leave the user feeling confused or lost when navigating the site. The only other font used was SYNCOPATE for the logo a futuristic font ideal for the impression i wanted it to give. 
 
 ### Expectations
+
+* The client has asked that the bacis capabilties for the website are.
+* An eye catching home page with Hero image instantly depicitng what the site is about
+* An About/Projects page to show site users examples of previous works.
+* A collection of photos of each of the previous projects.
+* A simple and clear form specifically designed to allow gymfyt to contact users once details have been entered.
+* The ability to expand the site further in the future of individual excersise equipment available.
+* Also future expansion of allowing clients to design their space virtually to show what is acheivable.
+
 
 
 
