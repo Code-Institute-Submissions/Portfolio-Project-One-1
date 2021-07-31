@@ -12,7 +12,7 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 [live website](https://ronnietyler.github.io/Portfolio-Project-One/)
 
-![responsive screen sizes](./assets/images/READMEimages/responsive-screen-sizes.png)
+![responsive screen sizes](/assets/images/READMEimages/responsive-screen-sizes.png)
 
 ## Table of contents
 
