@@ -175,7 +175,6 @@ body {
     height: 100%;
 }
 
-
 #square-border-three {
     height: 333px;
     width: 500px;
@@ -191,6 +190,8 @@ body {
     background: url('../images/jelmer-assink-gzeTjGu3b_k-unsplash\ copy.jpg') no-repeat center center;
     height: 100%;
 }
+
+/* contact heading and text field */
 
 #contact-us h2 {
     text-decoration: underline;
@@ -208,6 +209,8 @@ body {
     background-color: #d0d0d0;
     width: 75%;
 }
+
+/* form section */
 
 #form {
     clear: both;
