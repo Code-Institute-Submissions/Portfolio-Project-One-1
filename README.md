@@ -24,6 +24,8 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 2. [Features](#features)
     * [Logo Nav Bar and Footer](#logo-nav-bar-and-footer)
     * [Hero Images](#hero-images)
+       * [Hero Image Desktop](#hero-image-desktop)
+       * [Hero Image Mobile](#hero-image-mobile)
     * [About](#about)
     * [Contact](#contact)
 3. [Design](#design)
@@ -68,8 +70,13 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 * Hero image changes when max screen width goes below 750px i added this feature to better display the image and draw the attention of the veiwer to make sure the websites intent was understood.
 
+#### Hero Image Desktop
+
   ![Hero-Image-Desktop](/assets/images/READMEimages/hero-image-desktop.png)
-  ![Hero-Image-Mobile](/assets/images/READMEimages/hero-image-mobile.png)  
+
+#### Hero Image Mobile
+
+  ![Hero-Image-Mobile](/assets/images/READMEimages/hero-image-mobile.png)
 
   ### About
 
@@ -123,16 +130,33 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 ## Technology used
 
-* [HTML5](https://en.wikipedia.org/wiki/HTML5) was used for the site markup
-* [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) was used to style the HTML
-* [Balsamiq](https://balsamiq.com/) was used to produce the site wireframes
-* [Font Awesome](https://fontawesome.com/) was used for the social links icons
-* [Google Fonts](https://fonts.google.com/) provided all of the fonts used on the site
-* [Google Chrome Developer tools](https://developer.chrome.com/docs/devtools/) was used to test site responsiveness
-* [Github](https://github.com/Chris-McGonigle) was used to publish the repository
-* [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
-* [W3C Markup](https://validator.w3.org/) was used to validate HTML code
-* [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate CSS code
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) was used for the site markup.
+* [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) was used to style the HTML.
+* [Balsamiq](https://balsamiq.com/) was used to produce the site wireframes.
+* [Font Awesome](https://fontawesome.com/) was used for the social links icons.
+* [Google Fonts](https://fonts.google.com/) provided all of the fonts used on the site.
+* [Google Chrome Developer tools](https://developer.chrome.com/docs/devtools/) was used to test site responsiveness.
+* [Github](https://github.com/Chris-McGonigle) was used to publish the repository.
+* [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site.
+* [W3C Markup](https://validator.w3.org/) was used to validate HTML code.
+* [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate CSS code.
+* [Color Wheel](https://www.canva.com/colors/color-wheel/) was used to pick all colors for site.
+
+## Credits
+
+* All text on the site was written by myself on MacBook Pages and copy & pasted over to gitpod.
+
+* W3 Schools helped with the code for the contact form.
+
+* [Unsplash](https://unsplash.com/) All photos were taken from unsplash Free Downloads.
+
+* All photos cropped and changed pixel size done on MacBook MarkUp.
+
+* [Google Fonts](https://fonts.google.com/) All fonts taken form google fonts.
+
+* [Color Wheel](https://www.canva.com/colors/color-wheel/) All colors taken from canva color wheel.
+
+
 
 
 
