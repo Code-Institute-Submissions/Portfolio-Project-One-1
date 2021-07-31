@@ -141,7 +141,7 @@ Due to the Covid Pandemic, all Gym and outdoor exercise equipment sadly had to c
 * [W3C Markup](https://validator.w3.org/) was used to validate HTML code.
 * [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate CSS code.
 * [Color Wheel](https://www.canva.com/colors/color-wheel/) was used to pick all colors for site.
-* [Grammarly](https://app.grammarly.com/) to spell check readme file.
+* [Grammarly](https://app.grammarly.com/) to spell check readme file and html files.
 
 
 ## Credits
@@ -158,7 +158,7 @@ Due to the Covid Pandemic, all Gym and outdoor exercise equipment sadly had to c
 
 * [Color Wheel](https://www.canva.com/colors/color-wheel/) All colors taken from Canva color wheel.
 
-* [Grammarly](https://app.grammarly.com/) to spell check readme file.
+* [Grammarly](https://app.grammarly.com/) to spell check readme file and html files.
 
 
 
