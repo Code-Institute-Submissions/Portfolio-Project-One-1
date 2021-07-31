@@ -29,6 +29,10 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 3. [Design](#design)
     * [Expectations](#expectations)
 4. [Testing](#testing)
+    * [Index-html](#index-html)
+    * [About-html](#about-html)
+    * [Contact-html](#contact-html)
+    * [Style-css](#style-css)
 5. [Technology used](#technology-used)
 6. [Credits](#credits)
 
@@ -101,7 +105,34 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 
 ## Testing
 
+### Index-html
 
+![Index.html](/assets/images/READMEimages/w3-index.html-validator.png)
+
+### About-html
+
+![About.html](/assets/images/READMEimages/w3-about.html-validator.png)
+
+### Contact-html
+
+![Contact.html](/assets/images/READMEimages/w3-contact.html-validator.png)
+
+### Style-css
+
+![Style.css](/assets/images/READMEimages/w3-css-validator.png)
+
+## Technology used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) was used for the site markup
+* [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) was used to style the HTML
+* [Balsamiq](https://balsamiq.com/) was used to produce the site wireframes
+* [Font Awesome](https://fontawesome.com/) was used for the social links icons
+* [Google Fonts](https://fonts.google.com/) provided all of the fonts used on the site
+* [Google Chrome Developer tools](https://developer.chrome.com/docs/devtools/) was used to test site responsiveness
+* [Github](https://github.com/Chris-McGonigle) was used to publish the repository
+* [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
+* [W3C Markup](https://validator.w3.org/) was used to validate HTML code
+* [W3C CSS](https://jigsaw.w3.org/css-validator/) was used to validate CSS code
 
 
 
