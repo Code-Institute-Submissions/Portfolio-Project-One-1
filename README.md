@@ -97,6 +97,12 @@ Due to the Covid Pandemic, all Gym and outdoor excersise equipment saldy had to 
 * The ability to expand the site further in the future of individual excersise equipment available.
 * Also future expansion of allowing clients to design their space virtually to show what is acheivable.
 
+* The client wanted to express the look of a professional elegant committed site to achieve one final goal and that is to create safisticated engineered workout spaces suitbale for anyone and evryone.
+
+## Testing
+
+
+
 
 
 
