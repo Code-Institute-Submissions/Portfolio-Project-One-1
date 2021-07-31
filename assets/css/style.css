@@ -94,7 +94,6 @@ body {
     padding: 15px;
     margin-top: 30px;
     font-weight: bold;
-
 }
 
 /* project intro and project text fields */
@@ -116,7 +115,6 @@ body {
     background-color: #d0d0d0;
     width: 75%;
     text-align: center;
-
 }
 
 .customer {
@@ -255,6 +253,8 @@ input[type=text] {
     font-size: 16px;
 }
 
+/* footer and social media links */
+
 .social-links {
     list-style-type: none;
 }
@@ -287,6 +287,8 @@ footer {
     color: #ea5315;
 }
 
+/* media queires for medium screen sizes */
+
 @media screen and (max-width: 1050px) {
     #logo {
         font-size: 300%;
@@ -309,9 +311,9 @@ footer {
     textarea {
         width: 50%;
     }
-
-
 }
+
+/* media queires for smaller screen sizes */
 
 @media screen and (max-width: 750px) {
 
